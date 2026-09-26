@@ -1,0 +1,31 @@
+INSERT INTO sales
+VALUES
+(1,101,'Ravi Kumar','Laptop','Electronics',1,65000,65000,'2025-01-05','Chennai','Credit Card'),
+
+(2,102,'Priya Sharma','Mobile','Electronics',2,25000,50000,'2025-01-06','Bangalore','UPI'),
+
+(3,103,'Arjun Reddy','Headphones','Accessories',3,2000,6000,'2025-01-06','Hyderabad','Debit Card'),
+
+(4,101,'Ravi Kumar','Mouse','Accessories',2,800,1600,'2025-01-08','Chennai','UPI'),
+
+(5,104,'Sneha Patel','Laptop','Electronics',1,70000,70000,'2025-01-10','Ahmedabad','Credit Card'),
+
+(6,105,'Vikram Singh','Keyboard','Accessories',2,1500,3000,'2025-01-12','Delhi','Net Banking'),
+
+(7,106,'Kiran Rao','Mobile','Electronics',1,28000,28000,'2025-01-15','Mumbai','UPI'),
+
+(8,102,'Priya Sharma','Smart Watch','Wearables',1,12000,12000,'2025-01-18','Bangalore','Credit Card'),
+
+(9,107,'Rahul Mehta','Tablet','Electronics',1,35000,35000,'2025-01-20','Pune','Debit Card'),
+
+(10,103,'Arjun Reddy','Laptop','Electronics',1,62000,62000,'2025-01-25','Hyderabad','Credit Card'),
+
+(11,108,'Anjali Verma','Mobile','Electronics',2,22000,44000,'2025-02-01','Kolkata','UPI'),
+
+(12,109,'Deepak Nair','Headphones','Accessories',4,2500,10000,'2025-02-03','Kochi','UPI'),
+
+(13,110,'Meera Iyer','Smart Watch','Wearables',1,14000,14000,'2025-02-05','Chennai','Credit Card'),
+
+(14,101,'Ravi Kumar','Tablet','Electronics',1,40000,40000,'2025-02-08','Chennai','Debit Card'),
+
+(15,105,'Vikram Singh','Laptop','Electronics',1,68000,68000,'2025-02-10','Delhi','Net Banking');
